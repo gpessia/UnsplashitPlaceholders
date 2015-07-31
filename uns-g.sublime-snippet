@@ -1,10 +1,8 @@
 <snippet>
-  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
   <content><![CDATA[
-<img src="https://unsplash.it${1:/g}/${2:200}/${3:300}?gravity=${4:east|north|south|west|center}">]]></content>
-  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <img src="https://unsplash.it${1:/g}/${2:200}/${3:300}?gravity=${4:east|north|south|west|center}">
+]]></content>
   <tabTrigger>uns-g</tabTrigger>
   <description>Unspash Gravity Placeholder</description>
-  <!-- Optional: Set a scope to limit where the snippet will trigger -->
   <scope>text.html.basic, meta.tag.inline.any.html, punctuation.definition.tag.begin.html</scope>
 </snippet>
