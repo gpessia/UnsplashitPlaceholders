@@ -7,7 +7,7 @@ This package contains basic HTML placeholder from [unsplash.it](https://unsplash
 - Clone this repository or download and unpack the zip package to the 'Users' directory.
 
 
-### Triggers
+### tabTriggers
 
 **``uns``** for ``<img src="https://unsplash.it${1:/g}/${2:200}/${3:300}">`` rendered as
 ```html
