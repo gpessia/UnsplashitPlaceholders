@@ -1,1 +1,1 @@
-# UnsplashitPlaceholders
+# Unsplash.it Placeholders
