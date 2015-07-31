@@ -1,7 +1,5 @@
 <snippet>
-  <content><![CDATA[
-  <img src="https://unsplash.it${1:/g}/${2:200}/${3:300}/list">
-]]></content>
+  <content><![CDATA[<img src="https://unsplash.it${1:/g}/${2:200}/${3:300}/list">]]></content>
   <tabTrigger>uns-l</tabTrigger>
   <description>Unspash List Placeholder</description>
   <scope>text.html.basic, meta.tag.inline.any.html, punctuation.definition.tag.begin.html</scope>

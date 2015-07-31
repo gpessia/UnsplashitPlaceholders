@@ -1,7 +1,5 @@
 <snippet>
-  <content><![CDATA[
-  <img src="https://unsplash.it${1:/g}/${2:200}/${3:300}?gravity=${4:east|north|south|west|center}">
-]]></content>
+  <content><![CDATA[<img src="https://unsplash.it${1:/g}/${2:200}/${3:300}?gravity=${4:east|north|south|west|center}">]]></content>
   <tabTrigger>uns-g</tabTrigger>
   <description>Unspash Gravity Placeholder</description>
   <scope>text.html.basic, meta.tag.inline.any.html, punctuation.definition.tag.begin.html</scope>
