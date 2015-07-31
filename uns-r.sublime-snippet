@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+<img src="https://unsplash.it${1:/g}/${2:200}/${3:300}?random">
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>uns-r</tabTrigger>
+  <description>Unspash Random Placeholder</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html.basic, meta.tag.inline.any.html, punctuation.definition.tag.begin.html</scope>
+</snippet>
