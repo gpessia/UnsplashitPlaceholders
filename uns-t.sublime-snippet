@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[<img src="https://unsplash.it${1:/g}/${2:200}/${3:300}${4:?random}${5:&gravity=${6:center}}${7:&rand=${8:12345678}}${9:&blur}">]]></content>
+  <content><![CDATA[<img src="https://unsplash.it${1:/g}/${2:200}/${3:300}">]]></content>
+  <tabTrigger>uns-t</tabTrigger>
+  <description>Unspash Placeholder</description>
+  <scope>text.html.basic, meta.tag.inline.any.html, punctuation.definition.tag.begin.html</scope>
+</snippet>
+
+<!-- https://unsplash.it/1160/1160?random&gravity=center&rand=557437230&blur -->
