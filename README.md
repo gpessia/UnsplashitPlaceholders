@@ -43,3 +43,9 @@ __``uns-g``__ for ``<img src="https://unsplash.it${1:/g}/${2:200}/${3:300}?gravi
 ```html
 <img src="https://unsplash.it/g/200/300?gravity=east">
 ```
+
+---
+__``uns-t``__ for ``<img src="https://unsplash.it${1:/g}/${2:200}/${3:300}${4:?random}${5:&gravity=${6:center}}${7:&rand=${8:12345678}}${9:&blur}">`` rendered as
+```html
+<img src="https://unsplash.it/g/200/300?random&gravity=center&rand=12345678&blur">
+```
