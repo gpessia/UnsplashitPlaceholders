@@ -6,12 +6,6 @@ This package contains basic HTML placeholder from [unsplash.it](https://unsplash
 - Open Prefences -> Browse Packages from the menu.
 - Clone this repository or download and unpack the zip package to the 'Users' directory.
 
-### To Do
-
-- [] prova
-- [] prova
-- [] prova
-
 ### tabTriggers
 
 **``uns``** for ``<img src="https://unsplash.it${1:/g}/${2:200}/${3:300}">`` rendered as
